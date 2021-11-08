@@ -11,3 +11,7 @@ How to use
 8 upon successfull run open your browser and open link localhost/3002 (also written in console)
 9 use the application there
 10 close the running progra, by clicking on the square button
+***************how to open application online********
+  click on this link and then click open application https://dashboard.heroku.com/apps/online-order-assignment3 
+  otherwise type heroku open in your terminal
+  
